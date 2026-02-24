@@ -7,14 +7,12 @@
 ---
 
 🌱 Currently Learning ·
-- Deep diving into **Supabase** & Advanced React patterns  
+- Deep diving into **Next.js + Supabase**  
   
 
 🔭 Working on · 
 - Building 3 core portfolio projects
 
-✨ About · 
-- "Project Manager & Growing Full Stack Developer" 
 
 ---
 
@@ -35,15 +33,6 @@
 
 ### Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaehoya&show_icons=true&theme=tokyonight&count_private=true" height="180px" alt="Jaeho's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehoya&layout=compact&theme=tokyonight" height="180px" alt="Jaeho's Top Langs" />
 </div>
 
 ---
