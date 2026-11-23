@@ -1,8 +1,8 @@
-# 🎓 Student @ Seoul National University of Science and Technology
-**Computer Engineering | Returning Senior (3rd Year)**
+# 🎓 About Me @ Seoul National University of Science and Technology
+**Computer Science Engineering | Returning Senior (3rd Year)**
 
 > **"Project Manager & Growing Full Stack Developer"**  
-> I mostly take the Project Manager role and I'm returning to study full‑stack development — nice to meet you!
+> I mostly take the Project Manager role and I'm returning to study full‑stack development
 
 ---
 
